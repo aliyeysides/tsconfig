@@ -1,0 +1,15 @@
+{
+  "name": "@aliyeysides/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared base tsconfig for new projects",
+  "exports": {
+    ".": "./tsconfig.json"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Ali Yeysides",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
