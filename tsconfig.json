@@ -7,7 +7,7 @@
     "lib": [
       "DOM",
       "DOM.Iterable",
-      "ES2022"
+      "ES2023" // All versions of Node 18 support all ES2023 runtime features
     ],
     "resolveJsonModule": false, // ESM doesn't yet support JSON modules.
     "jsx": "react",
