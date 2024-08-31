@@ -3,7 +3,7 @@
     "outDir": "${configDir}/dist",
     "module": "node16",
     "moduleResolution": "node16",
-    "target": "ES2022", // Node.js 18
+    "target": "ES2022", // Node.js 18 https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping
     "lib": [
       "DOM",
       "DOM.Iterable",
