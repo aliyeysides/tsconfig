@@ -1,6 +1,6 @@
 {
   "name": "@aliyeysides/tsconfig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shared base tsconfig for new projects",
   "exports": {
     ".": "./tsconfig.json"
